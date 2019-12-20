@@ -5,6 +5,6 @@ ipython==2.4.0
 pyreadline==2.0
 six==1.9.0
 urllib3==1.10
-waitress==0.8.9
+waitress==1.4.0
 whitenoise==1.0.6
 psycopg2==2.5.4
